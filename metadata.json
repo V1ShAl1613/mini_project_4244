@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "AI-powered personalized college updates and opportunities platform for students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
